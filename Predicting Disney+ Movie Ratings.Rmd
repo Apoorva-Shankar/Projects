@@ -1,6 +1,6 @@
 ---
-title: "DS Project"
-author: "Team 45 - Ruby Chen, Frank Hoang, Thomás Alberto Peña, Siri Shankar, & Kelsey Zhou"
+title: "Disney+ Movie Magic: Using Data Science to Predict IMDB Ratings"
+author: "Siri Shankar"
 date: "10/9/2022"
 output: html_document
 ---
