@@ -1,3 +1,10 @@
+---
+title: "Decoding Starbucks' Customer Reactions: Analyzing the Impact of Online Offers"
+author: "Siri Shankar"
+date: "12/9/2022"
+---
+
+
 #Clean Data
 install.packages("ivreg")
 library(ivreg)
